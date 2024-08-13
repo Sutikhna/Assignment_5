@@ -15,3 +15,8 @@ adding details to the assignment
                 -> log out which will take use to main Getting Started page
             - PS(welcome and product page should have User name on the top of the page)
                 - ActivityIndicator is optional
+![Screenshot 2024-08-13 211637](https://github.com/user-attachments/assets/195bdf63-2da8-468a-b47d-9cf058163bd7)
+![Screenshot 2024-08-13 211650](https://github.com/user-attachments/assets/04dbb1be-7639-4dbe-8967-67c4033bbecc)
+![Screenshot 2024-08-13 211706](https://github.com/user-attachments/assets/200a4255-69ec-48fa-b400-02e42c1b263a)
+![Screenshot 2024-08-13 211721](https://github.com/user-attachments/assets/b9ec2d44-7916-45a8-a213-dcf0c00e565d)
+![Screenshot 2024-08-13 211732](https://github.com/user-attachments/assets/b453a4cd-3ef0-4853-9aff-5dc44762d061)
